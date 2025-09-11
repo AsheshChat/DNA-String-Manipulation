@@ -31,24 +31,6 @@ g++ dna.cpp -o dna
 
 ---
 
-## 📖 Example Output
-For the DNA string:  
-```
-AGCTGCGCAGCT
-```
-
-**GC Count:**  
-```
-6
-```
-
-**Pattern Match ("GCG"):**  
-```
-4
-```
-
----
-
 ## 🎯 Usage
 1. Modify the DNA string in `main()` to test other sequences
 2. Change the pattern in `kmp_search` to find different subsequences
