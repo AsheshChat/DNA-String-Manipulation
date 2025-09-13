@@ -1,4 +1,4 @@
-# 🧬 DNA String Manipulation
+# 🧬 DNA String Manipulation (Intermediate Level)
 
 A **C++ program** that provides basic operations on DNA strings, including **GC content calculation** and **pattern searching** using the **Knuth-Morris-Pratt (KMP) algorithm**.  
 
